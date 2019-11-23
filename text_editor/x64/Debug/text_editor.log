@@ -1,0 +1,7 @@
+﻿  main.cpp
+  mainwindow.cpp
+  textedit.cpp
+  qrc_Resource.cpp
+  moc_mainwindow.cpp
+  moc_textedit.cpp
+  text_editor.vcxproj -> C:\Users\19128\Desktop\C++\TIEI_2018_大作业_顾楠_2018229034\text_editor\x64\Debug\text_editor.exe
